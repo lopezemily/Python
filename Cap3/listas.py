@@ -1,7 +1,7 @@
 nomes = ['emily', 'jessica', 'allan', 'lilian']
 print(nomes)
 
-# acessar elementos individuais de uma lista
+# acessar elementos individuais de uma lista - contagem inicia em 0
 print(nomes[0])
 
 # concatenando strings com itens de uma lista
